@@ -28,7 +28,9 @@ There are two ways to do this:
 
 - Use git clone (recommended):
 
-  `$ git clone https://github.com/ulyzses/web-destruct`
+```
+$ git clone https://github.com/ulyzses/web-destruct
+```
 
 ### Step 2. Go to your browser's extension page.
 
