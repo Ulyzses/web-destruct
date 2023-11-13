@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Web Destruct",
+    "version": "1.0.0",
+    "description": "1 in 3 buttons now self-destruct",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "js": ["content.js"],
+            "matches": ["<all_urls>"],
+            "run_at": "document_end"
+        }
+    ]
+
+}
