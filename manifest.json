@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Web Destruct",
+    "name": "Web Destructinator",
     "version": "1.0.0",
     "description": "1 in 3 buttons now self-destruct",
     "permissions": ["activeTab"],
