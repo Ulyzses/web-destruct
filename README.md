@@ -2,10 +2,29 @@
 
 This is my submission for CSI's App Process 2324A Mini-Task #2. It is a prototype for a browser extension which converts half the anchor `<a>` tags on your page into self-destruct buttons.
 
+## Background
+
+Have you ever wanted to make your browser unusable? Imagine you're just browsing then you click something then, boom!, your web page is gone.
+
+If you have, well then you're in luck! Inspired by Dr. Doofenshmirtz's self-destruct button, I present to you: the **Web Destructinator**.
+
+The **Web Destructinator** is a browser extension which you can install on your browser and convert one in every three clickable links in the page to a self-destruct button. Clicking this will clear your entire screen and, if you're lucky, plays a little video for you.
+
 ## Features
 
 - One in three buttons in a web page is now a self-destruct button
 - Idk what else to tell you man it gives you anxiety and frustrates you
+
+## Pros and Benefits
+
+- Every mouse click you make is a thrill
+- Kung gusto mong tumakas sa reqs mag-screenrecord ka ng sarili mo browsing UVLe tas kunwari may bug kaya lagi siyang nagka-crash give the UVLe maintainers a headache tryna debug it fr
+
+## Probable Cons, Bugs, Threats of Innovation Use
+
+- Walang cons this innovation is perfect
+- Possible Bugs: smth smth Content Security Policy directives for some websites
+- Threats of Innovation Use: See under [Pros and Benefits](#pros-and-benefits)
 
 ## Compatibility
 
